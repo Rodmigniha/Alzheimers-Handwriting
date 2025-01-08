@@ -1,6 +1,6 @@
 
 ```markdown
-# Alzheimer’s Disease Detection Through Handwriting Analysis ✍️🧠
+Alzheimer’s Disease Detection Through Handwriting Analysis ✍️🧠
 
 This repository contains my work for the Kaggle competition **[Alzheimer’s Disease Detection Through Handwriting Analysis](https://www.kaggle.com/competitions/m-2-bdia-dl-project-2024)**. The goal is to develop a predictive model that can accurately differentiate between Alzheimer’s disease (AD) patients and healthy individuals based on handwriting data.
 
