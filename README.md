@@ -133,9 +133,6 @@ jupyter notebook notebook.ipynb
    results/
    *.csv
    *.log
-   data.csv
-   submission.csv
-   test.csv
    
    ```
 4. **Push your project to GitHub**.
